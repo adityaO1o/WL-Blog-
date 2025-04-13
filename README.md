@@ -1,6 +1,6 @@
 # 🌍 Wanderlust Diaries
 
-**Live Site:** [www.jj.com](https://wl-blog.vercel.app)  
+**Live Site:** [www.wanderlustdiaries.com](https://wl-blog.vercel.app)  
 **Author:** [Aditya Sharma](https://my-portfolio-five-lilac-63.vercel.app/)
 
 ---
