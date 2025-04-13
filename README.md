@@ -1,6 +1,6 @@
 # 🌍 Wanderlust Diaries
 
-**Live Site:** [www.jj.com](http://www.jj.com)  
+**Live Site:** [www.jj.com](https://wl-blog.vercel.app)  
 **Author:** [Aditya Sharma](https://my-portfolio-five-lilac-63.vercel.app/)
 
 ---
@@ -34,11 +34,13 @@ Whether you're planning your next trip or just love living through others' exper
 ## 👤 Author
 
 Made with ❤️ by **Aditya Sharma**  
-📁 [Portfolio](your-portfolio-link-here)  
-📧 (Add your email or contact if you want)
+📁 [Portfolio](https://my-portfolio-five-lilac-63.vercel.app/)  
+📧 (aditya2562sharma@gmail.com)
 
 ---
 
-## 📄 License
+## 📄 Admin Login
+id - admin@example.com
+pw- password
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
